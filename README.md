@@ -1,8 +1,3 @@
----
-# 如果你使用Jekyll，请保留以下YAML头部配置
-layout: default
-title: 个人主页 - 你的名字
----
 
 # 👋 欢迎来到我的个人主页！
 
